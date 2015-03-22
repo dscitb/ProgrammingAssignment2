@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Rprogramming
 Repository for course assignments
 =======
